@@ -1,6 +1,7 @@
-# anime-cli
-
-[Example](photos/example.png)
+<div style="text-align:center">
+<h1>anime-cli</h1>
+</div>
+![Example](./photos/example.png)
 
 ## A simple app for fetching data about animes
 
@@ -29,9 +30,9 @@ GOBIN=$PATH go install
 ```
 anime-cli <args>
 ```
-where <args> is the name of anime
+where args is the name of anime
 
-It will display a table containing info about the animes that contain the <args>.
+It will display a table containing info about the animes that contain the args.
 
 ## To-do
 
