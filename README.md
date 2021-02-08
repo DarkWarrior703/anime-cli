@@ -1,7 +1,8 @@
 <div style="text-align:center">
 <h1>anime-cli</h1>
 </div>
-![Example](./photos/example.png)
+
+![example](./photos/example.png)
 
 ## A simple app for fetching data about animes
 
