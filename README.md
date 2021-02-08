@@ -2,7 +2,7 @@
 <h1>anime-cli</h1>
 </div>
 
-![example](./photos/example.png)
+![example](./assets/anime-cli.png)
 
 ## A simple app for fetching data about animes
 
