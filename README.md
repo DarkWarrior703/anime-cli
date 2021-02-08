@@ -1,8 +1,14 @@
-<div style="text-align:center">
+<div align="center">
 <h1>anime-cli</h1>
 </div>
 
-![example](./assets/anime-cli.png)
+<div style="display:flex; flex:1;">
+
+![linux](./assets/anime-cli-linux.png)
+
+![windows](./assets/anime-cli-windows.png)
+
+</div>
 
 ## A simple app for fetching data about animes
 
@@ -21,7 +27,7 @@ By default,
 $GOBIN=$GOPATH/bin 
 ```
 
-If you wanna install it in a specific directory, change the GOBIN
+If you wanna install it in a specific directory, change the GOBIN variable
 ```
 GOBIN=$PATH go install
 ```
@@ -29,11 +35,11 @@ GOBIN=$PATH go install
 ## Usage
 
 ```
-anime-cli <args>
+anime-cli args
 ```
-where args is the name of anime
+where _args_ is the name of anime
 
-It will display a table containing info about the animes that contain the args.
+It will display a table containing info about the animes that contain the _args_.
 
 ## To-do
 
